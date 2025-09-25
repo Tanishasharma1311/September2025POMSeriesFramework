@@ -1,15 +1,12 @@
 package com.qa.opencart.pages;
 
 public class User {
-<<<<<<< HEAD
-=======
 	
 	public void m1() {
 	double d = 12.33;
- double d = 23.44;
+  double d = 23.44;  
 	}
 	
-
->>>>>>> d6378e13da901e02048fa1207328ecf4620fa8ed
+	
 
 }
