@@ -30,5 +30,9 @@ public class LoginPageTest extends BaseTest {
 		Assert.assertEquals(accPage.logoutLinkExist(),true);
 		
 	}
+	@Test (priority = 5)
+	public void sanityTest() {
+		Assert.assertEquals(true, true);
+	}
 
 }
